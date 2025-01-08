@@ -1,0 +1,72 @@
+[
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalA",
+    "FileName": "departments.csv",
+    "DatabaseName": "rcmhospital_a",
+    "TableName": "Departments"
+  },
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalA",
+    "FileName": "providers.csv",
+    "DatabaseName": "rcmhospital_a",
+    "TableName": "Providers"
+  },
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalA",
+    "FileName": "encounters.csv",
+    "DatabaseName": "rcmhospital_a",
+    "TableName": "Encounters"
+  },
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalA",
+    "FileName": "patients.csv",
+    "DatabaseName": "rcmhospital_a",
+    "TableName": "Patients"
+  },
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalA",
+    "FileName": "transactions.csv",
+    "DatabaseName": "rcmhospital_a",
+    "TableName": "Transactions"
+  },
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalB",
+    "FileName": "departments.csv",
+    "DatabaseName": "rcmhospital_b",
+    "TableName": "Departments"
+  },
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalB",
+    "FileName": "providers.csv",
+    "DatabaseName": "rcmhospital_b",
+    "TableName": "Providers"
+  },
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalB",
+    "FileName": "encounters.csv",
+    "DatabaseName": "rcmhospital_b",
+    "TableName": "Encounters"
+  },
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalB",
+    "FileName": "patients.csv",
+    "DatabaseName": "rcmhospital_b",
+    "TableName": "Patients"
+  },
+  {
+    "Container": "raw-data-for-sql-database",
+    "FilePath": "HospitalB",
+    "FileName": "transactions.csv",
+    "DatabaseName": "rcmhospital_b",
+    "TableName": "Transactions"
+  }
+]
